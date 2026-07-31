@@ -39,7 +39,7 @@ Project Structure:
 
 StudentPerformancePredictor/
 │
-├── app.py
+├── Home.py
 ├── train.py
 ├── predict.py
 ├── requirements.txt

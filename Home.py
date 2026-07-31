@@ -42,9 +42,3 @@ with col1:
 
 with col2:
     st.metric('R² Score', '0.97')
-
-st.subheader("Example Predicted Scores")
-
-results = pd.read_csv("data/results.csv")
-
-st.bar_chart(results.set_index("student"))
