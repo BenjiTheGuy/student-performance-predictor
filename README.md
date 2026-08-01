@@ -2,7 +2,7 @@ Student Performance Predictor
 
 ## LIVE DEMO
 
-[Open the App](https://student-performance-predictor-4t4xhuu2rwucuibmonlbc7.streamlit.app/)
+[Open the App](https://student-performance-predictor-dhuyjdue3ivk9otnbtldcw.streamlit.app/)
 
 A simple machine learning web application that predicts a student's final score based on input labels:
 
